@@ -14,7 +14,6 @@ dist-ssr
 stats.html
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 !.vscode/settings.json
 .idea
@@ -29,3 +28,4 @@ components.d.ts
 auto-imports.d.ts
 typed-router.d.ts
 *-lock.yaml
+config.bat
